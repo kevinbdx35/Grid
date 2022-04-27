@@ -7,4 +7,4 @@
 ![Screen Capture Tablet](https://github.com/kevinbdx35/Grid/blob/main/screencapture-kevinbdx35-github-io-Grid-2022-04-27-14_52_28.png?raw=true)
 
 ## Mobile
-![Screen Capture Mobile]()
+![Screen Capture Mobile](https://github.com/kevinbdx35/Grid/blob/main/screencapture-kevinbdx35-github-io-Grid-2022-04-27-14_52_52.png?raw=true)
